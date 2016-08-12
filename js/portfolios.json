@@ -1,0 +1,97 @@
+{ "portfolios" : [
+	{
+		"title" : "Bazzar Ceramics Studio",
+		"id" : "card-bc",
+		"image" : "images/Card-BC.jpg",
+		"url" : "http://wpbc.ABC.COM",
+		"skills" : [
+			{ "WordPress" : "images/wordpress32.png" },
+			{ "1" : "WordPress" },
+			{ "2" : "Shopping Mall" }
+		]
+	},
+	{
+		"title" : "Static BC Studio",
+		"id" : "card-sb",
+		"image" : "images/Card-SB.jpg",
+		"url" : "http://ABC.COM/static_bc/",
+		"skills" : [
+			{ "Bootstrap" : "images/bootstrap.png" },
+			{ "1" : "Bootstrap 3" },
+			{ "2" : "Google fonts" }
+		]
+	},
+	{
+		"title" : "Military Techno-thrillers",
+		"id" : "card-mt",
+		"image" : "images/Card-MT.jpg",
+		"url" : "http://wpbc.ABC.COM",
+		"skills" : [
+			{ "Google Blogger" : "images/blogger.png" },
+			{ "1" : "Blogger" }
+		]
+	},
+	{
+		"title" : "Vet Clinic",
+		"id" : "card-vc",
+		"image" : "images/Card-VC.jpg",
+		"url" : "https://www.youtube.com/watch?v=FcBo1bKC7rE",
+		"skills" : [
+			{ "1" : "VB.Net" },
+			{ "2" : "DAL Class" },
+			{ "3" : "Stored Procedure" }
+		]
+	},
+	{
+		"title" : "Android app",
+		"id" : "card-aa",
+		"image" : "images/Card-AA.jpg",
+		"url" : "https://www.youtube.com/watch?v=aakp6iZ4qAk",
+		"skills" : [
+			{ "1" : "Java" },
+			{ "2" : "Android Studio" }
+		]
+	},
+	{
+		"title" : "Airline Reservation",
+		"id" : "card-ar",
+		"image" : "images/Card-AR.jpg",
+		"url" : "https://www.youtube.com/watch?v=z9y3NafcnPs",
+		"skills" : [
+			{ "1" : "Visual Basic.Net" }
+		]
+	},
+	{
+		"title" : "Job Hunter",
+		"id" : "card-jh",
+		"image" : "images/Card-JH.jpg",
+		"url" : "http://portfolio.ABC.COM/JobHunter/",
+		"skills" : [
+			{ "1" : "PHP" },
+			{ "2" : "MySQL" },
+			{ "3" : "HTML/CSS" }
+		]
+	},
+	{
+		"title" : "Sport Warehouse",
+		"id" : "card-sw",
+		"image" : "images/Card-SW.jpg",
+		"url" : "http://portfolio.ABC.COM/SportsWarehouse/",
+		"skills" : [
+			{ "1" : "Flash" },
+			{ "2" : "PHP" },
+			{ "3" : "MySQL" },
+			{ "4" : "HTML/CSS" }
+		]
+	},
+	{
+		"title" : "Computer Warehouse",
+		"id" : "card-cw",
+		"image" : "images/Card-CW.jpg",
+		"url" : "https://www.youtube.com/watch?v=GAJRiVW8TgU",
+		"skills" : [
+			{ "1" : "C#" },
+			{ "2" : "SQL Server" }
+		]
+	}
+]}

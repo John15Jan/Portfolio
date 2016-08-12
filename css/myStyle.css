@@ -3,20 +3,18 @@ body{
 }
 section {
 	position: relative;
-    padding-top: 60px;
     padding-bottom: 50px;
+}
+section::before {
+	content: "";
+	display: block;
+	height: 115px;
 }
 .section-cyan {
 	background: radial-gradient(#FFFFFF,#E8F0F5);
 }
 .section-gray {
-	/* background-color: #E8F0F5; */
-	/* background: radial-gradient(#FFFFFF,#E8F0F5); */
 	background: #d9d9d6 url("../images/bg.png") repeat scroll 0 0;
-}
-.firstpage-padding {
-	/* section padding-top + menu height */
-    padding-top: 115px;
 }
 .margin-bottom30 {
     margin-bottom: 30px;
